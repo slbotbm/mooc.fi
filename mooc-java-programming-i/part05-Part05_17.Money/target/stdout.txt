@@ -1,0 +1,5 @@
+Amount: 10.0, 2.0
+Amount: 10.0, 7.4
+Amount: 1.0, 2.0
+Amount: 1.5, 2.0
+Amount: 2.5, 2.0
